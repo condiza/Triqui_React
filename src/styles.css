@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.board-row {
+  display: flex;
+  width: 20rem;
+  align-items: center;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  margin: 2px;
+  border: solid 1px rgb(109, 107, 107);
+  border-radius: 5px;
+  align-items: center;
+}
